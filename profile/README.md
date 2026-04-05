@@ -1,4 +1,5 @@
-**No Bad Outputs.** Deploy agents with confidence.
+<h2 align="center"><strong>No Bad Outputs.</strong></h2>
+<p align="center">Deploy agents with confidence.</p>
 
 .txt is the industry standard for structured generation — high-performance libraries that make LLM outputs predictable, programmable, and production-ready.
 
