@@ -8,7 +8,7 @@
 $ curl api.dottxt.ai
 
 **Deploying yourself?**  
-$ pip install dotvllm
+$ pip install dotvllm dotsglang dottensorrt_llm
 
 
 
