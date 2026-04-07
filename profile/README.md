@@ -12,4 +12,4 @@ $ pip install dotvllm dotsglang dottensorrt_llm
 
 
 
-[Blog](https://blog.dottxt.ai) · [Docs](https://docs.dottxt.ai) · [Twitter](https://twitter.com/dottxtai)
+[Blog](https://blog.dottxt.ai) · [Docs](https://docs.dottxt.ai) · [Twitter](https://twitter.com/dottxtai) · [Get Access](https://h1xbpbfsf0w.typeform.com/to/fwQNWmS8?typeform-source=github)
